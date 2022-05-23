@@ -1,7 +1,9 @@
 ### System.out.println("Hi there! 👋");
-- 💻 I am currently taking an **undergraduate course** in [**Systems Analysis and Development**](https://estudante.ifpb.edu.br/cursos/13/) at the Monteiro Campus of the Federal Institute of Paraíba, Brazil.
-- 👯 I am currently collaborating on a **research project** as a volunteer to develop a phone app to **help the local fire department** with their duties. You can find it at: https://github.com/DataLab-IFPB/IncendioFlorestal-Mobile. 
-- ⚡ Completely self-taught in English and 3D Animation using [Blender](https://www.blender.org/)
+- 💻 I am currently taking an **undergraduate course** in [**Systems Analysis and Development**](https://estudante.ifpb.edu.br/cursos/13/) at the Monteiro Campus of the Federal Institute of Paraíba, Brazil
+- 👯 I am currently collaborating on a **research project** as a volunteer to develop a phone app to **help the local fire department** with their duties. You can find it at: https://github.com/DataLab-IFPB/IncendioFlorestal-Mobile
+- ⚡ Completely self-taught in 📘English and ◻3D Animation with [Blender](https://www.blender.org/) and [Source Filmmaker](https://www.sourcefilmmaker.com/)
+- ⚡ I know my way around ☕Java, 🐬MySQL and 🐘PostgreSQL
+- 🌱 Looking forward to learning 🍃Spring Boot and ⚛React Native
 
 <div align="center">
   <a href="https://github.com/BrandonLogandi">
