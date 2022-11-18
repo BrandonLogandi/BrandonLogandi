@@ -28,6 +28,7 @@
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UC-VmJYFeXjBLvqeVwfOo4qQ"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC-VmJYFeXjBLvqeVwfOo4qQ?style=for-the-badge&logo=youtube">
+  <a href="https://github.com/JanJoris-IFPB"> <img alt="Academic Github" src="https://img.shields.io/badge/-Academic%20Github-lightgrey?style=for-the-badge&logo=github">
   <a href="https://www.linkedin.com/in/jan-joris-tom%C3%A9-de-lira/"> <img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-informational?style=for-the-badge&logo=linkedin">
   <a href="mailto:jan.joris@academico.ifpb.edu.br"> <img alt="Mail me" src="https://img.shields.io/badge/-email-grey?style=for-the-badge&logo=gmail">
 <div/>
