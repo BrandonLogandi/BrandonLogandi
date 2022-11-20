@@ -9,20 +9,23 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,nodejs,js,ts,react,mysql,postgres,vscode,blender&theme=light" />
+    <img height="60em" src="https://skillicons.dev/icons?i=java,spring,docker,nodejs,js,ts,react,mysql,postgres,vscode,blender&theme=light" />
   </a>
 </div>
 
 <hr/>
 
 <div align="center">
-  <a href="https://github.com/BrandonLogandi">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=BrandonLogandi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/BrandonLogandi/github-readme-stats-multiuser">
+    <img height="180em" src="https://github-readme-stats-multiuser.vercel.app/api?usernames=BrandonLogandi,JanJoris-IFPB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/BrandonLogandi">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonLogandi&layout=compact&langs_count=7&theme=algolia"/>
+  <a href="https://github.com/BrandonLogandi/github-readme-stats-multiuser">
+    <img height="180em" src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=BrandonLogandi,JanJoris-IFPB&layout=compact&langs_count=7&theme=algolia"/>
    </a>
+  <p><i>The cards above have been generated with my forked version of github-readme-stats that allows displaying of stats of multiple users</i></p>
 </div>
+
+
 
 <hr/>
 
