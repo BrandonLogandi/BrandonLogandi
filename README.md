@@ -1,7 +1,7 @@
 ## System.out.println("Hi there! 👋");
 
 - 💻 I am currently taking an **undergraduate course** in [**Systems Analysis and Development**](https://estudante.ifpb.edu.br/cursos/13/) at the Monteiro Campus of the Federal Institute of Paraíba, Brazil
-- 👯 I am currently collaborating on a **research project** to develop a phone app to **help the local fire department** with their duties. You can find it at: <https://github.com/DataLab-IFPB/IncendioFlorestal-Mobile>
+- 👯 I've previously worked on a **research project** to develop a phone app to **help the local fire department** with their duties. You can find it at: <https://github.com/DataLab-IFPB/IncendioFlorestal-Mobile>
 - ⚡ Completely self-taught in 📘English and ◻3D Animation with [Blender](https://www.blender.org/) and [Source Filmmaker](https://www.sourcefilmmaker.com/)
 - 📚 I have an academic account where i keep all of my academic projects. You can access it [here.](https://github.com/JanJoris-IFPB)
 
